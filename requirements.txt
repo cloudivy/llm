@@ -1,0 +1,8 @@
+streamlit
+ollama
+faiss-cpu
+numpy
+PyMuPDF
+python-docx
+pytesseract
+pillow
